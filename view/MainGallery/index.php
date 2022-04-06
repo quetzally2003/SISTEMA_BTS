@@ -11,7 +11,6 @@
 <?php require_once("../MainHeader/header.php");?>
 	<div class="mobile-menu-left-overlay"></div>
 	<?php require_once("../MainNav/Nav.php");?>
-?>
 <body class="with-side-menu">
 	<div class="page-content">
 		<div class="container-fluid">
@@ -87,9 +86,9 @@
 				target: $('.gallery-item .gallery-picture')
 			});
 		});
-	<?php require_once("../Mainjs/Js.php");?>
 	</script>
 	<script src="public/js/app.js"></script>
+	<?php require_once("../MainJs/js.php");?>
 </body>
 </html>
 <?php

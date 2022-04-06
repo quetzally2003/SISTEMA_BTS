@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <?php require_once("../MainHead/head.php");?>
-    <title>sistema : Consultar Ticket</title>
+    <title>sistema :Albumnes</title>
 </head>
 <body class="with-side-menu">
 <?php require_once("../MainHeader/header.php");?>

@@ -31,4 +31,11 @@
 <link rel="stylesheet" href="../../public/css/lib/summernote/summernote.css"/>
 <link rel="stylesheet" href="../../public/css/separate/pages/editor.min.css">
 
+<link href="../../publicimg/favicon.144x144.png" rel="apple-touch-icon" type="image/png" sizes="144x144">
+<link href="../../publicimg/favicon.114x114.png" rel="apple-touch-icon" type="image/png" sizes="114x114">
+<link href="../../publicimg/favicon.72x72.png" rel="apple-touch-icon" type="image/png" sizes="72x72">
+<link href="../../publicimg/favicon.57x57.png" rel="apple-touch-icon" type="image/png">
+<link href="../../publicimg/favicon.png" rel="icon" type="image/png">
+<link href="../../publicimg/favicon.ico" rel="shortcut icon">
+
 
