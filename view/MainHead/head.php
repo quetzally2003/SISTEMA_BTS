@@ -38,4 +38,13 @@
 <link href="../../publicimg/favicon.png" rel="icon" type="image/png">
 <link href="../../publicimg/favicon.ico" rel="shortcut icon">
 
+<link rel="stylesheet" href="../../public/css/separate/pages/gallery.min.css">
+<link rel="stylesheet" href="../../public/css/lib/font-awesome/font-awesome.min.css">
+<link rel="stylesheet" href="../../public/css/lib/bootstrap/bootstrap.min.css">
+<link rel="stylesheet" href="../../public/css/main.css">    
 
+<link rel="stylesheet" href="../../public/css/separate/pages/prices.min.css">
+    <link rel="stylesheet" href="../../public/css/lib/font-awesome/font-awesome.min.css">
+    <link rel="stylesheet" href="../../public/css/lib/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="../../public/css/main.css">
+</head>

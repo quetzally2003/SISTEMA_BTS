@@ -13,27 +13,6 @@
 	<?php require_once("../MainNav/Nav.php");?>
 
 <head lang="es">
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Inicio de albumnes</title>
-
-	<link href="public/img/favicon.144x144.png" rel="apple-touch-icon" type="public/image/png" sizes="144x144">
-	<link href="public/img/favicon.114x114.png" rel="apple-touch-icon" type="public/image/png" sizes="114x114">
-	<link href="public/img/favicon.72x72.png" rel="apple-touch-icon" type="public/image/png" sizes="72x72">
-	<link href="public/img/favicon.57x57.png" rel="apple-touch-icon" type="public/image/png">
-	<link href="public/img/favicon.png" rel="icon" type="public/image/png">
-	<link href="public/img/favicon.ico" rel="shortcut icon">
-
-	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-	<!--[if lt IE 9]>
-	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-	<![endif]-->
-<link rel="stylesheet" href="public/css/separate/elements/cards.min.css">
-    <link rel="stylesheet" href="public/css/lib/font-awesome/font-awesome.min.css">
-    <link rel="stylesheet" href="public/css/lib/bootstrap/bootstrap.min.css">
-    <link rel="stylesheet" href="public/css/main.css">
 </head>
 <body class="with-side-menu">
 	<div class="page-content">
@@ -46,12 +25,12 @@
 								<div class="tbl-row">
 									<div class="tbl-cell tbl-cell-photo">
 										<a href="#">
-                                        <img src="public/img/album14.jpg" alt="300" height="300">
+                                        <img src="../../public/img/album14.jpg" alt="300" height="300">
 										</a>
 									</div>
 									<div class="tbl-cell">
-										<p class="user-card-row-name"><a href="#">Fernanda Quetzally Rejon Alegria</a></p>
-										<p class="color-blue-grey-lighter">viva mexico</p>
+										<p class="user-card-row-name"><a href="#">Quetzally Alegria</a></p>
+										<p class="color-blue-grey-lighter">12 days sep - 17 min read</p>
 									</div>
 									<div class="tbl-cell tbl-cell-status">
 										<a href="#" class="font-icon font-icon-star active"></a>
@@ -61,16 +40,16 @@
 						</div>
 						<div class="card-typical-section card-typical-content">
 							<div class="photo">
-								<img src="../../public/img/gall-img-1.jpg" alt="">
+								<img src="../../public/img/album1.jpg" alt="">
 							</div>
-							<header class="title"><a href="#">vivaaaa mexico</a></header>
-							<p>ARMYS</p>
+							<header class="title"><a href="#">ME ENCANTO MUCHO</a></header>
+							<p>Se los recomiendo mucho,me gusto que me lo entregaran de buen material el producto</p>
 						</div>
 						<div class="card-typical-section">
 							<div class="card-typical-linked">in <a href="#">Coders Life</a></div>
 							<a href="#" class="card-typical-likes">
 								<i class="font-icon font-icon-heart"></i>
-								123
+								701
 							</a>
 						</div>
 					</article><!--.card-typical-->
@@ -83,11 +62,11 @@
 								<div class="tbl-row">
 									<div class="tbl-cell tbl-cell-photo">
 										<a href="#">
-											<img src="../../public/img/avatar-1-64.png" alt="">
+											<img src="../../public/img/photo-220-1.jpg" alt="">
 										</a>
 									</div>
 									<div class="tbl-cell">
-										<p class="user-card-row-name"><a href="#">Tim Colins</a></p>
+										<p class="user-card-row-name"><a href="#">Angelica Alvaro</a></p>
 										<p class="color-blue-grey-lighter">3 days ago - 23 min read</p>
 									</div>
 									<div class="tbl-cell tbl-cell-status">
@@ -95,81 +74,14 @@
 									</div>
 								</div>
 							</div>
-						</div>
-						<div class="card-typical-section card-typical-content">
-							<header class="title"><a href="#">The Jacobs Ladder of coding</a></header>
-							<p>ARMYS </p>
-						</div>
-						<div class="card-typical-section">
-							<div class="card-typical-linked">in <a href="#">Coders Life</a></div>
-							<a href="#" class="card-typical-likes">
-								<i class="font-icon font-icon-heart"></i>
-								123
-							</a>
-						</div>
-					</article><!--.card-typical-->
-				</div><!--.card-grid-col-->
-
-				<div class="card-grid-col">
-					<article class="card-typical">
-						<div class="card-typical-section">
-							<div class="user-card-row">
-								<div class="tbl-row">
-									<div class="tbl-cell tbl-cell-photo">
-										<a href="#">
-											<img src="../../public/img/avatar-2-64.png" alt="">
-										</a>
-									</div>
-									<div class="tbl-cell">
-										<p class="user-card-row-name"><a href="#">Tim Colins</a></p>
-										<p class="color-blue-grey-lighter">3 days ago - 23 min read</p>
-									</div>
-									<div class="tbl-cell tbl-cell-status">
-										<a href="#" class="font-icon font-icon-star active"></a>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="card-typical-section card-typical-content">
+                         </div>
+						 <div class="card-typical-section card-typical-content">
 							<div class="photo">
-								<img src="../../public/img/gall-img-4.jpg" alt="">
+								<img src="../../public/img/astro2.jpg" alt="">
 							</div>
-							<header class="title"><a href="#">The Jacobs Ladder of coding</a></header>
-							<p>ARMYS</p>
-						</div>
-						<div class="card-typical-section">
-							<div class="card-typical-linked">in <a href="#">Coders Life</a></div>
-							<a href="#" class="card-typical-likes">
-								<i class="font-icon font-icon-heart"></i>
-								123
-							</a>
-						</div>
-					</article><!--.card-typical-->
-				</div><!--.card-grid-col-->
-
-				<div class="card-grid-col">
-					<article class="card-typical">
-						<div class="card-typical-section">
-							<div class="user-card-row">
-								<div class="tbl-row">
-									<div class="tbl-cell tbl-cell-photo">
-										<a href="#">
-											<img src="../../img/photo-64-3.jpg" alt="">
-										</a>
-									</div>
-									<div class="tbl-cell">
-										<p class="user-card-row-name"><a href="#">Tim Colins</a></p>
-										<p class="color-blue-grey-lighter">3 days ago - 23 min read</p>
-									</div>
-									<div class="tbl-cell tbl-cell-status">
-										<a href="#" class="font-icon font-icon-star"></a>
-									</div>
-								</div>
-							</div>
-						</div>
 						<div class="card-typical-section card-typical-content">
-							<header class="title"><a href="#">The Jacobs Ladder of coding</a></header>
-							<p>ARMYS </p>
+							<header class="title"><a href="#">ME GUSTO EL BUEN SERVICIO</a></header>
+							<p>Volveria comprar aquí en la página </p>
 						</div>
 						<div class="card-typical-section">
 							<div class="card-typical-linked">in <a href="#">Coders Life</a></div>
@@ -192,8 +104,8 @@
 										</a>
 									</div>
 									<div class="tbl-cell">
-										<p class="user-card-row-name"><a href="#">Tim Colins</a></p>
-										<p class="color-blue-grey-lighter">3 days ago - 23 min read</p>
+										<p class="user-card-row-name"><a href="#">Geni Mar</a></p>
+										<p class="color-blue-grey-lighter">15 days dic - 45 min read</p>
 									</div>
 									<div class="tbl-cell tbl-cell-status">
 										<a href="#" class="font-icon font-icon-star active"></a>
@@ -202,8 +114,11 @@
 							</div>
 						</div>
 						<div class="card-typical-section card-typical-content">
-							<header class="title"><a href="#">The Jacobs Ladder of coding</a></header>
-							<p>ARMYS </p>
+							<div class="photo">
+								<img src="../../public/img/al3.jpg" alt="">
+							</div>
+							<header class="title"><a href="#">chicaaas!!!! me enamore de estas diadena, se las recomiendo </a></header>
+							<p>ARMYS</p>
 						</div>
 						<div class="card-typical-section">
 							<div class="card-typical-linked">in <a href="#">Coders Life</a></div>
@@ -222,11 +137,11 @@
 								<div class="tbl-row">
 									<div class="tbl-cell tbl-cell-photo">
 										<a href="#">
-											<img src="../../public/img/avatar-3-64.png" alt="">
+											<img src="../../public/img/photo-92-1.jpg" alt="">
 										</a>
 									</div>
 									<div class="tbl-cell">
-										<p class="user-card-row-name"><a href="#">Tim Colins</a></p>
+										<p class="user-card-row-name"><a href="#">Luis Alejandro</a></p>
 										<p class="color-blue-grey-lighter">3 days ago - 23 min read</p>
 									</div>
 									<div class="tbl-cell tbl-cell-status">
@@ -237,16 +152,92 @@
 						</div>
 						<div class="card-typical-section card-typical-content">
 							<div class="photo">
-								<img src="../../img/gall-img-5.jpg" alt="">
+								<img src="../../public/img/al1.jpg" alt="">
 							</div>
-							<header class="title"><a href="#">The Jacobs Ladder of coding</a></header>
-							<p>ARMYS</p>
+						<div class="card-typical-section card-typical-content">
+							<header class="title"><a href="#">Me gusto </a></header>
+							<p>Lo compre por que a mi novia le gusta estos tipos de cosas, pero nunca pense que eran de buena </p>
 						</div>
 						<div class="card-typical-section">
 							<div class="card-typical-linked">in <a href="#">Coders Life</a></div>
 							<a href="#" class="card-typical-likes">
 								<i class="font-icon font-icon-heart"></i>
 								123
+							</a>
+						</div>
+					</article><!--.card-typical-->
+				</div><!--.card-grid-col-->
+
+				<div class="card-grid-col">
+					<article class="card-typical">
+						<div class="card-typical-section">
+							<div class="user-card-row">
+								<div class="tbl-row">
+									<div class="tbl-cell tbl-cell-photo">
+										<a href="#">
+											<img src="../../public/img/video-preview.jpg" alt="">
+										</a>
+									</div>
+									<div class="tbl-cell">
+										<p class="user-card-row-name"><a href="#">Mayra Medina </a></p>
+										<p class="color-blue-grey-lighter">14 days ago -  1 hora read</p>
+									</div>
+									<div class="tbl-cell tbl-cell-status">
+										<a href="#" class="font-icon font-icon-star active"></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="card-typical-section card-typical-content">
+							<div class="photo">
+								<img src="../../public/img/astro1.jpg" alt="">
+							</div>
+						<div class="card-typical-section card-typical-content">
+							<header class="title"><a href="#">Soy nueva, pero viendo todo el producto se los recomiendo </a></header>
+							<p>no sean desconfiadas en comprar el producto </p>
+						</div>
+						<div class="card-typical-section">
+							<div class="card-typical-linked">in <a href="#">Coders Life</a></div>
+							<a href="#" class="card-typical-likes">
+								<i class="font-icon font-icon-heart"></i>
+								123
+							</a>
+						</div>
+					</article><!--.card-typical-->
+				</div><!--.card-grid-col-->
+
+				<div class="card-grid-col">
+					<article class="card-typical">
+						<div class="card-typical-section">
+							<div class="user-card-row">
+								<div class="tbl-row">
+									<div class="tbl-cell tbl-cell-photo">
+										<a href="#">
+											<img src="../../public/img/user.jpg" alt="">
+										</a>
+									</div>
+									<div class="tbl-cell">
+										<p class="user-card-row-name"><a href="#">Marcos Juarez</a></p>
+										<p class="color-blue-grey-lighter">11 days january - 01 h read</p>
+									</div>
+									<div class="tbl-cell tbl-cell-status">
+										<a href="#" class="font-icon font-icon-star"></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="card-typical-section card-typical-content">
+							<div class="photo">
+								<img src="../../public/img/album12.jpg" alt="">
+							</div>
+							<header class="title"><a href="#">I LOVE BTS</a></header>
+							<p>QUIEROO!! quiero comprar más álbumnes</p>
+						</div>
+						<div class="card-typical-section">
+							<div class="card-typical-linked">in <a href="#">Coders Life</a></div>
+							<a href="#" class="card-typical-likes">
+								<i class="font-icon font-icon-heart"></i>
+								569
 							</a>
 						</div>
 					</article><!--.card-typical-->
@@ -263,76 +254,8 @@
 										</a>
 									</div>
 									<div class="tbl-cell">
-										<p class="user-card-row-name"><a href="#">Tim Colins</a></p>
-										<p class="color-blue-grey-lighter">3 days ago - 23 min read</p>
-									</div>
-									<div class="tbl-cell tbl-cell-status">
-										<a href="#" class="font-icon font-icon-star active"></a>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="card-typical-section card-typical-content">
-							<header class="title"><a href="#">The Jacobs Ladder of coding</a></header>
-							<p>ARMYS </p>
-						</div>
-						<div class="card-typical-section">
-							<div class="card-typical-linked">in <a href="#">Coders Life</a></div>
-							<a href="#" class="card-typical-likes">
-								<i class="font-icon font-icon-heart"></i>
-								123
-							</a>
-						</div>
-					</article><!--.card-typical-->
-				</div><!--.card-grid-col-->
-
-				<div class="card-grid-col">
-					<article class="card-typical">
-						<div class="card-typical-section">
-							<div class="user-card-row">
-								<div class="tbl-row">
-									<div class="tbl-cell tbl-cell-photo">
-										<a href="#">
-											<img src="../../img/avatar-1-64.png" alt="">
-										</a>
-									</div>
-									<div class="tbl-cell">
-										<p class="user-card-row-name"><a href="#">Tim Colins</a></p>
-										<p class="color-blue-grey-lighter">3 days ago - 23 min read</p>
-									</div>
-									<div class="tbl-cell tbl-cell-status">
-										<a href="#" class="font-icon font-icon-star"></a>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="card-typical-section card-typical-content">
-							<header class="title"><a href="#">The Jacobs Ladder of coding</a></header>
-							<p>ARMYS</p>
-						</div>
-						<div class="card-typical-section">
-							<div class="card-typical-linked">in <a href="#">Coders Life</a></div>
-							<a href="#" class="card-typical-likes">
-								<i class="font-icon font-icon-heart"></i>
-								123
-							</a>
-						</div>
-					</article><!--.card-typical-->
-				</div><!--.card-grid-col-->
-
-				<div class="card-grid-col">
-					<article class="card-typical">
-						<div class="card-typical-section">
-							<div class="user-card-row">
-								<div class="tbl-row">
-									<div class="tbl-cell tbl-cell-photo">
-										<a href="#">
-											<img src="../../img/photo-64-2.jpg" alt="">
-										</a>
-									</div>
-									<div class="tbl-cell">
-										<p class="user-card-row-name"><a href="#">Tim Colins</a></p>
-										<p class="color-blue-grey-lighter">3 days ago - 23 min read</p>
+										<p class="user-card-row-name"><a href="#">Jesus Velazquez</a></p>
+										<p class="color-blue-grey-lighter">08 days june - 2 h read</p>
 									</div>
 									<div class="tbl-cell tbl-cell-status">
 										<a href="#" class="font-icon font-icon-star active"></a>
@@ -342,50 +265,17 @@
 						</div>
 						<div class="card-typical-section card-typical-content">
 							<div class="photo">
-								<img src="../../img/gall-img-6.jpg" alt="">
+								<img src="../../public/img/exo.jpg" alt="">
 							</div>
-							<header class="title"><a href="#">The Jacobs Ladder of coding</a></header>
-							<p>ARMYS</p>
-						</div>
-						<div class="card-typical-section">
-							<div class="card-typical-linked">in <a href="#">Coders Life</a></div>
-							<a href="#" class="card-typical-likes">
-								<i class="font-icon font-icon-heart"></i>
-								123
-							</a>
-						</div>
-					</article><!--.card-typical-->
-				</div><!--.card-grid-col-->
-
-				<div class="card-grid-col">
-					<article class="card-typical">
-						<div class="card-typical-section">
-							<div class="user-card-row">
-								<div class="tbl-row">
-									<div class="tbl-cell tbl-cell-photo">
-										<a href="#">
-											<img src="../../img/avatar-2-64.png" alt="">
-										</a>
-									</div>
-									<div class="tbl-cell">
-										<p class="user-card-row-name"><a href="#">Tim Colins</a></p>
-										<p class="color-blue-grey-lighter">3 days ago - 23 min read</p>
-									</div>
-									<div class="tbl-cell tbl-cell-status">
-										<a href="#" class="font-icon font-icon-star"></a>
-									</div>
-								</div>
-							</div>
-						</div>
 						<div class="card-typical-section card-typical-content">
-							<header class="title"><a href="#">The Jacobs Ladder of coding</a></header>
-							<p>ARMYS</p>
+							<header class="title"><a href="#">OH YEA!!!</a></header>
+							<p>Si valio la pena gastar mi beca </p>
 						</div>
 						<div class="card-typical-section">
 							<div class="card-typical-linked">in <a href="#">Coders Life</a></div>
 							<a href="#" class="card-typical-likes">
 								<i class="font-icon font-icon-heart"></i>
-								123
+								1332
 							</a>
 						</div>
 					</article><!--.card-typical-->
@@ -398,46 +288,12 @@
 								<div class="tbl-row">
 									<div class="tbl-cell tbl-cell-photo">
 										<a href="#">
-											<img src="../../img/photo-64-3.jpg" alt="">
+											<img src="../../public/img/photo-64-3.jpg" alt="">
 										</a>
 									</div>
 									<div class="tbl-cell">
-										<p class="user-card-row-name"><a href="#">Tim Colins</a></p>
-										<p class="color-blue-grey-lighter">3 days ago - 23 min read</p>
-									</div>
-									<div class="tbl-cell tbl-cell-status">
-										<a href="#" class="font-icon font-icon-star active"></a>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="card-typical-section card-typical-content">
-							<header class="title"><a href="#">The Jacobs Ladder of coding</a></header>
-							<p>ARMYS </p>
-						</div>
-						<div class="card-typical-section">
-							<div class="card-typical-linked">in <a href="#">Coders Life</a></div>
-							<a href="#" class="card-typical-likes">
-								<i class="font-icon font-icon-heart"></i>
-								123
-							</a>
-						</div>
-					</article><!--.card-typical-->
-				</div><!--.card-grid-col-->
-
-				<div class="card-grid-col">
-					<article class="card-typical">
-						<div class="card-typical-section">
-							<div class="user-card-row">
-								<div class="tbl-row">
-									<div class="tbl-cell tbl-cell-photo">
-										<a href="#">
-											<img src="../../img/avatar-3-64.png" alt="">
-										</a>
-									</div>
-									<div class="tbl-cell">
-										<p class="user-card-row-name"><a href="#">Tim Colins</a></p>
-										<p class="color-blue-grey-lighter">3 days ago - 23 min read</p>
+										<p class="user-card-row-name"><a href="#">Galilea Fuentes</a></p>
+										<p class="color-blue-grey-lighter">01 days nov - 12 h read</p>
 									</div>
 									<div class="tbl-cell tbl-cell-status">
 										<a href="#" class="font-icon font-icon-star"></a>
@@ -447,16 +303,167 @@
 						</div>
 						<div class="card-typical-section card-typical-content">
 							<div class="photo">
-								<img src="../../img/gall-img-7.jpg" alt="" aling="rigth">
+								<img src="../../public/img/mamamoo.jpg" alt="">
 							</div>
-							<header class="title"><a href="#">The Jacobs Ladder of coding</a></header>
-							<p>ARMYS</p>
+						<div class="card-typical-section card-typical-content">
+							<header class="title"><a href="#">Me muerooo!!!, ya lo necesitaba</a></header>
+							<p>Si!!! ya lista para ir concierto</p>
 						</div>
 						<div class="card-typical-section">
 							<div class="card-typical-linked">in <a href="#">Coders Life</a></div>
 							<a href="#" class="card-typical-likes">
 								<i class="font-icon font-icon-heart"></i>
-								123
+								145
+							</a>
+						</div>
+					</article><!--.card-typical-->
+				</div><!--.card-grid-col-->
+
+				<div class="card-grid-col">
+					<article class="card-typical">
+						<div class="card-typical-section">
+							<div class="user-card-row">
+								<div class="tbl-row">
+									<div class="tbl-cell tbl-cell-photo">
+										<a href="#">
+											<img src="../../public/img/gif.gif" alt="">
+										</a>
+									</div>
+									<div class="tbl-cell">
+										<p class="user-card-row-name"><a href="#">Monse Lopéz</a></p>
+										<p class="color-blue-grey-lighter">05 days may - 03 min read</p>
+									</div>
+									<div class="tbl-cell tbl-cell-status">
+										<a href="#" class="font-icon font-icon-star active"></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="card-typical-section card-typical-content">
+							<div class="photo">
+								<img src="../../public/img/album9.jpg" alt="">
+							</div>
+							<header class="title"><a href="#">En este paso me quedare pobre!!</a></header>
+							<p>Pero enserio, aprovechen a comprar</p>
+						</div>
+						<div class="card-typical-section">
+							<div class="card-typical-linked">in <a href="#">Coders Life</a></div>
+							<a href="#" class="card-typical-likes">
+								<i class="font-icon font-icon-heart"></i>
+								204
+							</a>
+						</div>
+					</article><!--.card-typical-->
+				</div><!--.card-grid-col-->
+
+				<div class="card-grid-col">
+					<article class="card-typical">
+						<div class="card-typical-section">
+							<div class="user-card-row">
+								<div class="tbl-row">
+									<div class="tbl-cell tbl-cell-photo">
+										<a href="#">
+											<img src="../../public/img/photo-64-1.jpg" alt="">
+										</a>
+									</div>
+									<div class="tbl-cell">
+										<p class="user-card-row-name"><a href="#">Tom Holland</a></p>
+										<p class="color-blue-grey-lighter"> 01 days sep - 6 h read</p>
+									</div>
+									<div class="tbl-cell tbl-cell-status">
+										<a href="#" class="font-icon font-icon-star"></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="card-typical-section card-typical-content">
+							<div class="photo">
+								<img src="../../public/img/TXT.jpg" alt="">
+							</div>
+						<div class="card-typical-section card-typical-content">
+							<header class="title"><a href="#">Si valio la pena :)</a></header>
+							<p>Hoy si no duermo en el sillón jajaja :v</p>
+						</div>
+						<div class="card-typical-section">
+							<div class="card-typical-linked">in <a href="#">Coders Life</a></div>
+							<a href="#" class="card-typical-likes">
+								<i class="font-icon font-icon-heart"></i>
+								1694
+							</a>
+						</div>
+					</article><!--.card-typical-->
+				</div><!--.card-grid-col-->
+
+				<div class="card-grid-col">
+					<article class="card-typical">
+						<div class="card-typical-section">
+							<div class="user-card-row">
+								<div class="tbl-row">
+									<div class="tbl-cell tbl-cell-photo">
+										<a href="#">
+											<img src="../../public/img/photo-92-3.jpg" alt="">
+										</a>
+									</div>
+									<div class="tbl-cell">
+										<p class="user-card-row-name"><a href="#">Min Sasha</a></p>
+										<p class="color-blue-grey-lighter">04 days dic - 24 min read</p>
+									</div>
+									<div class="tbl-cell tbl-cell-status">
+										<a href="#" class="font-icon font-icon-star active"></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="card-typical-section card-typical-content">
+							<div class="photo">
+								<img src="../../public/img/astro6.jpg" alt="">
+							</div>
+						<div class="card-typical-section card-typical-content">
+							<header class="title"><a href="#">Me gusto en todos los aspectos</a></header>
+							<p>Si volveria a comprar en esta página, ya que me gusto el buen trato y la calidad del producto </p>
+						</div>
+						<div class="card-typical-section">
+							<div class="card-typical-linked">in <a href="#">Coders Life</a></div>
+							<a href="#" class="card-typical-likes">
+								<i class="font-icon font-icon-heart"></i>
+								107
+							</a>
+						</div>
+					</article><!--.card-typical-->
+				</div><!--.card-grid-col-->
+
+				<div class="card-grid-col">
+					<article class="card-typical">
+						<div class="card-typical-section">
+							<div class="user-card-row">
+								<div class="tbl-row">
+									<div class="tbl-cell tbl-cell-photo">
+										<a href="#">
+											<img src="../../public/img/olivia.jpg" alt="">
+										</a>
+									</div>
+									<div class="tbl-cell">
+										<p class="user-card-row-name"><a href="#">Olivi Rodrigo</a></p>
+										<p class="color-blue-grey-lighter">12 days march - 05 min read</p>
+									</div>
+									<div class="tbl-cell tbl-cell-status">
+										<a href="#" class="font-icon font-icon-star"></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="card-typical-section card-typical-content">
+							<div class="photo">
+								<img src="../../public/img/album18.jpg" alt="" aling="rigth">
+							</div>
+							<header class="title"><a href="#">Me enamore de estes album</a></header>
+							<p>Me estoy convertiendome en army, si volveria a comprar aquí</p>
+						</div>
+						<div class="card-typical-section">
+							<div class="card-typical-linked">in <a href="#">Coders Life</a></div>
+							<a href="#" class="card-typical-likes">
+								<i class="font-icon font-icon-heart"></i>
+								12
 							</a>
 						</div>
 					</article><!--.card-typical-->
@@ -467,15 +474,6 @@
 
 		</div><!--.container-fluid-->
 	</div><!--.page-content-->
-
-	<script src="public/js/lib/jquery/jquery.min.js"></script>
-	<script src="public/js/lib/tether/tether.min.js"></script>
-	<script src="public/js/lib/bootstrap/bootstrap.min.js"></script>
-	<script src="jpublic/s/plugins.js"></script>
-
-	<script src="public/js/lib/salvattore/salvattore.min.js"></script>
-	<script type="text/javascript" src="js/lib/match-height/jquery.matchHeight.min.js"></script>
-	<script>
 		$(function() {
 			$('.card-user').matchHeight();
 		});

@@ -10,7 +10,7 @@
 <body class="with-side-menu">
 <?php require_once("../MainHeader/header.php");?>
 	<div class="mobile-menu-left-overlay"></div>
-	<?php require_once("../MainNav/nav.php");?>
+	<?php require_once("../MainNav/Nav.php");?>
 
 	<div class="page-content">
 		<div class="container-fluid">

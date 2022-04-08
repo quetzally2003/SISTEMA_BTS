@@ -18,7 +18,7 @@
 				<header class="box-typical-header box-typical-header-bordered">
 					<div class="tbl-row">
 						<div class="tbl-cell tbl-cell-title">
-						<h3>Albumnes BTS</h3>
+						<h3>MERCH</h3>
 						</div>
 						<div class="tbl-cell tbl-cell-actions">
 							<button type="button" class="action-btn view active">
@@ -37,7 +37,7 @@
 					<div class="gallery-grid">
 						<div class="gallery-col">
 							<article class="gallery-item">
-							<img src="../../public/img/album30.jpg" alt="" height="158">
+							<img src="../../public/img/al1.jpg" alt="" height="158">
 								<div class="gallery-hover-layout">
 								</div>
 							</article>
@@ -45,7 +45,7 @@
 
 						<div class="gallery-col">
 							<article class="gallery-item">
-								<img src="../../public/img/album28.jpg" alt="" height="158">
+								<img src="../../public/img/al2.jpg" alt="" height="158">
 								<div class="gallery-hover-layout">
 								</div>
 							</article>
@@ -53,7 +53,7 @@
 
 						<div class="gallery-col">
 							<article class="gallery-item">
-								<img src="../../public/img/album27.jpg" alt="" height="158">
+								<img src="../../public/img/al3.jpg" alt="" height="158">
 								<div class="gallery-hover-layout">
 								</div>
 							</article>
@@ -61,7 +61,7 @@
 
 						<div class="gallery-col">
 							<article class="gallery-item">
-								<img src="../../public/img/album29.jpg" alt="" height="158">
+								<img src="../../public/img/al4.jpg" alt="" height="158">
 								<div class="gallery-hover-layout">
 								</div>
 							</article>
@@ -69,18 +69,18 @@
 
 						<div class="gallery-col">
 							<article class="gallery-item">
-								<img src="../../public/img/album30.1.jpg" alt="" height="158">
+								<img src="../../public/img/army bomb.jpg" alt="" height="158">
 								<div class="gallery-hover-layout">
 								</div>
 							</article>	
 					</div><!--.gallery-grid-->
-					<center><p>AÑO DE LA ERA MAP OF THE SOUL: 7</p></center>
+					<center><p></p>MERCH DE BTS</center>
 
 					<div class="box-typical-body">
 					<div class="gallery-grid">
 						<div class="gallery-col">
 							<article class="gallery-item">
-							<img src="../../public/img/alb1.jpg" alt="" height="158">
+							<img src="../../public/img/astr4.jpg" alt="" height="158">
 								<div class="gallery-hover-layout">
 								</div>
 							</article>
@@ -90,7 +90,7 @@
 					<div class="gallery-grid">
 						<div class="gallery-col">
 							<article class="gallery-item">
-							<img src="../../public/img/alb3.jpg" alt="" height="158">
+							<img src="../../public/img/astr3.jpg" alt="" height="158">
 								<div class="gallery-hover-layout">
 								</div>
 							</article>
@@ -100,7 +100,7 @@
 					<div class="gallery-grid">
 						<div class="gallery-col">
 							<article class="gallery-item">
-							<img src="../../public/img/alb4.jpg" alt="" height="158">
+							<img src="../../public/img/astr1.jpg" alt="" height="158">
 								<div class="gallery-hover-layout">
 								</div>
 							</article>
@@ -110,7 +110,7 @@
 					<div class="gallery-grid">
 						<div class="gallery-col">
 							<article class="gallery-item">
-							<img src="../../public/img/alb2.jpg" alt="" height="158">
+							<img src="../../public/img/astr2.jpg" alt="" height="158">
 								<div class="gallery-hover-layout">
 								</div>
 							</article>
@@ -120,16 +120,16 @@
 					<div class="gallery-grid">
 						<div class="gallery-col">
 							<article class="gallery-item">
-							<img src="../../public/img/alb.jpg" alt="" height="158">
+							<img src="../../public/img/astro.jpg" alt="" height="158">
 								<div class="gallery-hover-layout">
 								</div>
 							</article>
 						</div><!--.gallery-col-->
-						<center><p>AÑO DE LA ERA LOVE YOURSELF 'ANSWER'</p></center>
+						<center><p>MERCH DE ASTRO</p></center>
 						
 						<div class="gallery-col">
 							<article class="gallery-item">
-								<img src="../../public/img/album33.jpg" alt="" height="158">
+								<img src="../../public/img/exo3.jpg" alt="" height="158">
 								<div class="gallery-hover-layout">
 								</div>
 							</article>	
@@ -137,7 +137,7 @@
 
 					<div class="gallery-col">
 							<article class="gallery-item">
-								<img src="../../public/img/album34.jpg" alt="" height="158">
+								<img src="../../public/img/exo2.jpg" alt="" height="158">
 								<div class="gallery-hover-layout">
 								</div>
 							</article>	
@@ -145,7 +145,7 @@
 
 					<div class="gallery-col">
 							<article class="gallery-item">
-								<img src="../../public/img/album5.jpg" alt="" height="158">
+								<img src="../../public/img/exo1.jpg" alt="" height="158">
 								<div class="gallery-hover-layout">
 								</div>
 							</article>	
@@ -153,7 +153,7 @@
 
 					<div class="gallery-col">
 							<article class="gallery-item">
-								<img src="../../public/img/album32.jpg" alt="" height="158">
+								<img src="../../public/img/exo5.jpg" alt="" height="158">
 								<div class="gallery-hover-layout">
 								</div>
 							</article>	
@@ -161,14 +161,14 @@
 
 					<div class="gallery-col">
 							<article class="gallery-item">
-								<img src="../../public/img/album34.1.jpg" alt="" height="158">
+								<img src="../../public/img/exo.jpg" alt="" height="158">
 								<div class="gallery-hover-layout">
 								</div>
 							</article>	
 					</div><!--.gallery-grid-->
 					
-					</div><!--.gallery-grid-->
-					<center><p>AÑO DE LA ERA MAP OF THE SOUL: PERSONA</p></center>
+                     </div><!--.gallery-grid-->
+					<center><p></p>MERCH DE EXO</center>
 
 				</div><!--.box-typical-body-->
 			</section><!--.box-typical-->
